@@ -136,17 +136,17 @@ footer i{
 
 
 @media (max-width: 1050px){
-  .social-card .col-md-6 h5{
+  .social-card .text .social-text {
     display:none;
   }
 }
 @media (max-width: 991px){
-  .col-md-6 h5{
+  .social-card .text .social-text{
     display:none;
   }
 }
 @media (max-width: 850px){
-  .col-md-6 h5{
+  .social-card .text .social-text{
     display:none;
   }
 }
