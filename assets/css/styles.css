@@ -61,15 +61,18 @@
     color: white;
 }
 
-  
+.card-icon{
+  margin-top:150px;
+  /* margin-bottom: 20px; */
+}
 .profile-icon{
-    margin-top:130px;
+    /* margin-left: 50px; */
     height: 10px;
     display: flex;
     justify-content:center;
     align-items:center;
-    margin-left: 180px;
-    /* margin-top: -40px; */
+    margin-left: 200px;
+    margin-top: -50px;
 }
 .round-img{
     width: 80px;
@@ -130,6 +133,7 @@ footer i{
   background: linear-gradient(78.77deg, #393937 -13.76%, #000000 108.53%);
 
 }
+
 
 @media (max-width: 1050px){
   .social-card .col-md-6 h5{
